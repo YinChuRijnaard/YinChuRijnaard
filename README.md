@@ -8,5 +8,5 @@ Visit my **new** portfolio: https://www.yinchu.dev/
 - 💻 I’m currently learning TypeScript
 - 💬 Ask me about watches, cars and, of course, tech 
 - 📫 How to reach me
-  - Twitter (@yinchurijnaard)
+  - Twitter (https://twitter.com/yinchurijnaard)
   - LinkedIn (https://linkedin.com/in/rijnaard)
