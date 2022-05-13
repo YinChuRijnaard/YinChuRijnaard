@@ -20,6 +20,10 @@ I'm a Junior Frontend Web Developer from the Netherlands, based in Athens. Welco
 - MongoDB
 - Python (?)
 
+## 📈 Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YinChuRijnaard)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.yinchu.dev/)
