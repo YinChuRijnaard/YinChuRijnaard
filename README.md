@@ -1,8 +1,8 @@
-# Hey there, Yin Chu here :)
+# Hey! Yin Chu here :)
 
-I'm a Junior Frontend Web Developer from the Netherlands, based in Athens. Welcome to my GitHub profile.
+I'm a Junior Frontend Web Developer from the Netherlands, based in Athens
 
-## 🛠 Skills
+### 🛠 Skills
 
 `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Tailwind CSS` • `styled-components` • `Git` • Stack Overflow • Googling
 
@@ -14,15 +14,15 @@ I'm a Junior Frontend Web Developer from the Netherlands, based in Athens. Welco
 | `JavaScript` |                |                     | Googling       |
 | `TypeScript` |                |                     |                | -->
 
-## 🤓 Things I want to learn and use (in the future)
+### 🤓 Things I want to learn
 
 Next.js • Vue.js • Nuxt.js • Firebase • MongoDB • Python
 
-## 📈 Stats
+### 📈 Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YinChuRijnaard)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔗 Links
+### 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.yinchu.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijnaard//)
