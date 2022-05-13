@@ -4,21 +4,19 @@ I'm a Junior Frontend Web Developer from the Netherlands, based in Athens. Welco
 
 ## 🛠 Skills
 
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Tailwind CSS` • `styled-components` • `Git` • Stack Overflow • Googling
+
+<!-- 
 | Languages    | Libraries      | Frameworks          | Other          |
 | ------------ | -------------- | ------------------- | -------------- |
 | `HTML`       | `React`        | `Tailwind CSS`      | `Git`          |
 | `CSS`        | `React Router` | `styled-components` | Stack Overflow |
 | `JavaScript` |                |                     | Googling       |
-| `TypeScript` |                |                     |                |
+| `TypeScript` |                |                     |                | -->
 
 ## 🤓 Things I want to learn and use (in the future)
 
-- Next.js
-- Vue.js
-- Nuxt.js
-- Firebase
-- MongoDB
-- Python (?)
+Next.js • Vue.js • Nuxt.js • Firebase • MongoDB • Python
 
 ## 📈 Stats
 
