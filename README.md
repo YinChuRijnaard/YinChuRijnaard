@@ -1,12 +1,27 @@
-### Hi there, welcome to my GitHub profile!
+# Hey there, Yin Chu here :)
 
-My name is Yin Chu and I'm an aspiring junior web developer!
+I'm a Junior Frontend Web Developer from the Netherlands, based in Athens. Welcome to my GitHub profile.
 
-Visit my **new** portfolio: https://www.yinchu.dev/
+## 🛠 Skills
 
-- 🛠 I’m currently building cool projects that I can add to my portfolio
-- 💻 I’m currently learning TypeScript
-- 💬 Ask me about watches, cars and, of course, tech 
-- 📫 How to reach me
-  - Twitter (https://twitter.com/yinchurijnaard)
-  - LinkedIn (https://linkedin.com/in/rijnaard)
+| Languages    | Libraries      | Frameworks          | Other          |
+| ------------ | -------------- | ------------------- | -------------- |
+| `HTML`       | `React`        | `Tailwind CSS`      | `Git`          |
+| `CSS`        | `React Router` | `styled-components` | Stack Overflow |
+| `JavaScript` |                |                     | Googling       |
+| `TypeScript` |                |                     |                |
+
+## 🤓 Things I want to learn and use (in the future)
+
+- Next.js
+- Vue.js
+- Nuxt.js
+- Firebase
+- MongoDB
+- Python (?)
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.yinchu.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijnaard//)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yinchurijnaard)
