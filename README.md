@@ -1,10 +1,10 @@
 # Hey! Yin Chu here :)
 
-I'm a Junior Frontend Web Developer from the Netherlands, based in Athens
+I'm a Junior Frontend Web Developer from the Netherlands.
 
 ### 🛠 Skills
 
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Tailwind CSS` • `styled-components` • `Git` • Stack Overflow • Googling
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Next.js` • `Firebase` • `Tailwind CSS` • `styled-components` • `Material UI` • `Chakra UI` • `Git` • Stack Overflow • Googling
 
 <!-- 
 | Languages    | Libraries      | Frameworks          | Other          |
@@ -16,7 +16,7 @@ I'm a Junior Frontend Web Developer from the Netherlands, based in Athens
 
 ### 🤓 Things I want to learn
 
-Next.js • Vue.js • Nuxt.js • Firebase • MongoDB • Python
+Vue.js • Nuxt.js • MongoDB • Python
 
 ### 📈 Stats
 
