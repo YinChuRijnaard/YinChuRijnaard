@@ -4,7 +4,7 @@ I'm a Junior Frontend Web Developer from the Netherlands.
 
 ### 🛠 Skills
 
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Next.js` • `Firebase` • `Tailwind CSS` • `styled-components` • `Material UI` • `Chakra UI` • `Git` • Stack Overflow • Googling
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Next.js` • `Firebase` • `Tailwind CSS` • `styled-components` • `Material UI` • `Chakra UI` • `Git` • `npm` • `yarn` • Stack Overflow • Googling
 
 <!-- 
 | Languages    | Libraries      | Frameworks          | Other          |
