@@ -21,7 +21,7 @@ Vue.js • Nuxt.js • MongoDB • Python
 ### 📈 Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YinChuRijnaard&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinChuRijnaard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinChuRijnaard&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Links
 
