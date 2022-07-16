@@ -1,25 +1,3 @@
-# Hey! Yin Chu here :)
-
-I'm a Junior Frontend Web Developer from the Netherlands.
-
-### 🛠 Skills
-
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Router` • `Next.js` • `Firebase` • `Tailwind CSS` • `styled-components` • `Material UI` • `Chakra UI` • `Git` • `npm` • `yarn` • `Stack Overflow` • `Googling`
-
-<!-- | Languages    | Libraries      | Frameworks          | Other      |
-| ------------ | -------------- | ------------------- | -----------|
-| `HTML`       | `React`        | `Next.js`           | `Firebase` |
-| `CSS`        | `React Router` | `Tailwind CSS`      | `npm`      |
-| `JavaScript` |                | `styled-components` | `yarn`     |
-| `TypeScript` |                |                     |            | -->
-
-
-### 🤓 Things I want to learn
-
-`tRPC` • `Prisma` • `Vue.js` • `Nuxt.js` • `Python`
-
-### 📈 Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinChuRijnaard&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yin Chu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinChuRijnaard&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
